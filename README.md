@@ -25,8 +25,8 @@ Welcome to my GitHub profile! I'm a passionate Front-end Developer skilled in bu
 - **Other**: Responsive Design, State Management
 
 ## Let's Connect
-- [LinkedIn](#) (Add your LinkedIn profile if available)
-- [Portfolio](#) (Add your portfolio link if available)
+- [LinkedIn](https://www.linkedin.com/in/thanh-hu%E1%BB%B3nh-329778367/) (Add your LinkedIn profile if available)
+- [Facebook](https://www.facebook.com/KaZuHT) (Add your portfolio link if available)
 
 ## Say Hi! 😄
 Feel free to explore my repositories, and don’t hesitate to reach out for collaboration or just a chat!
