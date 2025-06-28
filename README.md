@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate Front-end Developer skilled in bu
 - **[corenet](https://github.com/thanhhuynh1903/corenet)** - A TypeScript project forked for learning purposes
 - **[cosmetic-Shop](https://github.com/thanhhuynh1903/cosmetic-Shop)** - A JavaScript-based e-commerce application
 - **[biteology](https://github.com/thanhhuynh1903/biteology)** - A TypeScript project showcasing my skills
-- **[jewelry-store-React-web](https://github.com/thanhhuynh1903/jewelry-store-React-web)** - A React-based web application
+- **[thanhdev-portfolio](https://github.com/thanhhuynh1903/thanhdev-portfolio)** - A React-based web application
 - **[admin-plantcare](https://github.com/thanhhuynh1903/admin-plantcare)** - A JavaScript admin dashboard
 - **[SRC-Smart Running Coach](https://github.com/thanhhuynh1903/srcoach)** - This is a graduation project.
 
