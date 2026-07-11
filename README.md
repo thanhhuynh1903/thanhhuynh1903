@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate Front-end Developer skilled in bu
 ## About Me
 - 🌟 Specialties: React.js, Next.js, TypeScript, JavaScript, React Native
 - 🔍 Currently exploring new trends and best practices in front-end development
-- 📧 Contact:[thanhhuynh190303@gmail.com](mailto:thanhhuynh190303@gmail.com)
+- 📧 Contact: [thanhhuynh190303@gmail.com](mailto:thanhhuynh190303@gmail.com)
 
 ## Projects
 - **[corenet](https://github.com/thanhhuynh1903/corenet)** - A TypeScript project forked for learning purposes
@@ -21,7 +21,8 @@ Welcome to my GitHub profile! I'm a passionate Front-end Developer skilled in bu
 
 ## Skills
 - **Languages/Frameworks**: JavaScript, TypeScript, React.js, Next.js, React Native
-- **Tools**: Git, GitHub, VS Code
+- **Tools**: Git, GitHub, VS Code, Antigravity
+- **AI**: Codex, Black-Box
 - **Other**: Responsive Design, State Management
 
 ## Let's Connect
