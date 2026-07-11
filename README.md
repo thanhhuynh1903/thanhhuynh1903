@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate Front-end Developer skilled in bu
 ## About Me
 - 🌟 Specialties: React.js, Next.js, TypeScript, JavaScript, React Native
 - 🔍 Currently exploring new trends and best practices in front-end development
-- 📧 Contact: [thanhgaming1234@gmail.com](mailto:thanhgaming1234@gmail.com),[thanhhuynh190303@gmail.com](mailto:thanhhuynh190303@gmail.com)
+- 📧 Contact:[thanhhuynh190303@gmail.com](mailto:thanhhuynh190303@gmail.com)
 
 ## Projects
 - **[corenet](https://github.com/thanhhuynh1903/corenet)** - A TypeScript project forked for learning purposes
